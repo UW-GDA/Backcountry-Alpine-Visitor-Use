@@ -10,31 +10,32 @@ Includes
 * Gabriel Wisswaesser
 
 ### Example
-* Choropleth of the United States
 
-<img src="project/Backcountry-Alpine-Visitor-Use/Screen Shot 2021-02-20 at 1.45.43 PM.png" width=85% height=85%>
+<img src="./Screen Shot 2021-02-20 at 1.45.43 PM.png" width=25% height=25%>
 
 <br>
 <br>
 
 * Line graphs of states with when certain mandates were implemented
-<img src="project/Backcountry-Alpine-Visitor-Use/Screen Shot 2021-02-20 at 1.45.43 PM.png" width=85% height=85%>
+<img src="./Screen Shot 2021-02-20 at 1.45.43 PM.png" width=25% height=25%>
 
 
 ### Software dependencies
+
+To be determined
+
 #### Python Packages
 
-
+To be determined
 
 ### Directory Summary
-We have _docs_ directory, where related articles, component design, and use cases can be located.
-
-Then, we have _covid_ directory, where data, examples, and test codes can be located
 
 ### Directory Structure
+
+
 ```
 project
-    ├──
+    ├── License
     ├── README.md
 
 ```
