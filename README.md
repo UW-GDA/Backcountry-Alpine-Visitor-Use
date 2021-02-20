@@ -37,11 +37,12 @@ To be determined
 
 
 ```
-project
-    ├── License
+Backcountry-Alpine-Visitor-Use
+    ├── LICENSE
     ├── README.md
-    ├──lidar.png
-    ├──satellite.png
+    ├── lidar.png
+    ├── satellite.png
+
 ```
 
 ### Data Source
