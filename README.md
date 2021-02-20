@@ -10,13 +10,13 @@ Includes
 * Gabriel Wisswaesser
 
 ### Example
-
+LIDAR image of Seven Lakes Basin
 <img src="lidar.png" width=25% height=25%>
 
 <br>
 <br>
-![image](files/Users/jzhang/Desktop/Isolated.png)
-* Line graphs of states with when certain mandates were implemented
+
+Satellite image of social trail at Seven Lakes Basin
 <img src="satellite.png" width=25% height=25%>
 
 
