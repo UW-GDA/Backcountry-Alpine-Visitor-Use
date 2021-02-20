@@ -11,13 +11,13 @@ Includes
 
 ### Example
 
-<img src="./Screen Shot 2021-02-20 at 1.45.43 PM.png" width=25% height=25%>
+<img src="Screen Shot 2021-02-20 at 1.45.43 PM.png" width=25% height=25%>
 
 <br>
 <br>
 
 * Line graphs of states with when certain mandates were implemented
-<img src="./Screen Shot 2021-02-20 at 1.45.43 PM.png" width=25% height=25%>
+<img src="Screen Shot 2021-02-20 at 1.45.43 PM.png" width=25% height=25%>
 
 
 ### Software dependencies
