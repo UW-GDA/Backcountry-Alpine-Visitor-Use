@@ -9,7 +9,7 @@ Includes
 
 * Gabriel Wisswaesser
 
-### Example
+### Example of Imagery to Be Ivestigated
 
 LIDAR image of Seven Lakes Basin
 
