@@ -10,13 +10,15 @@ Includes
 * Gabriel Wisswaesser
 
 ### Example
+
 LIDAR image of Seven Lakes Basin
+
 <img src="lidar.png" width=25% height=25%>
 
 <br>
-<br>
 
 Satellite image of social trail at Seven Lakes Basin
+
 <img src="satellite.png" width=25% height=25%>
 
 
