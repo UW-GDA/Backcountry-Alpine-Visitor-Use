@@ -8,7 +8,7 @@ The population of the Western US has gorwn markedly in the last 10 years, especi
 
 * Gabriel Wisswaesser
 
-### Example of Imagery to Be Ivestigated
+### Examples of Imagery to Be Ivestigated
 
 LIDAR image of Seven Lakes Basin
 
@@ -21,20 +21,16 @@ Satellite image of social trail at Seven Lakes Basin
 <img src="satellite.png" width=25% height=25%>
 
 
-### Software dependencies
+### Product
 
-To be determined
+* At least one alpine location with polygons, in a time series, that show variation in shape or size 
 
-#### Python Packages
+### Python Packages
 
-To be determined
+* Rasterio
+* GDAL - hopefully not
 
-### Directory Summary
-
-To be determined
-
-### Directory Structure
-
+### Current Directory Structure
 
 ```
 Backcountry-Alpine-Visitor-Use
@@ -47,4 +43,7 @@ Backcountry-Alpine-Visitor-Use
 
 ### Data Source
 
-To be determined
+* https://lidarportal.dnr.wa.gov/
+
+* https://www.arcgis.com/home/webmap/viewer.html?featurecollection=https%3A%2F%2Fgis.apfo.usda.gov%2Farcgis%2Frest%2Fservices%3Ff%3Djson%26option%3Dfootprints&supportsProjection=true&supportsJSONP=true
+
