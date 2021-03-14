@@ -45,5 +45,7 @@ Backcountry-Alpine-Visitor-Use
 
 * https://lidarportal.dnr.wa.gov/
 
+*https://earthexplorer.usgs.gov/
+
 * https://www.arcgis.com/home/webmap/viewer.html?featurecollection=https%3A%2F%2Fgis.apfo.usda.gov%2Farcgis%2Frest%2Fservices%3Ff%3Djson%26option%3Dfootprints&supportsProjection=true&supportsJSONP=true
 
