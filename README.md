@@ -12,13 +12,13 @@ The population of the Western US has gorwn markedly in the last 10 years, especi
 
 Rampart Lakes RBG
 
-<img src="rbg.png" width=75% height=75%>
+<img src="rbg.png" width=50% height=50%>
 
 <br>
 
 Rampart Lakes Red/Blue
 
-<img src="rbr.png" width=75% height=75%>
+<img src="rbr.png" width=50% height=50%>
 
 
 ### Product
