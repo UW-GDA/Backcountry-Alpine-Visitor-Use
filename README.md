@@ -42,10 +42,6 @@ Use 4-band NAIP data because of the 1m resolution. Each band will be investigate
 .<br>
 ├── LICENSE <br>
 ├── README.md <br>
-├── m_4712138_sw_10_1_20110826.tif<br>
-├── m_4712138_sw_10_1_20110826_utm_gdalwarp.tif<br>
-├── m_4712138_sw_10_1_20150807.tif<br>
-├── m_4712138_sw_10_1_20150807_utm_gdalwarp.tif<br>
 ├── rbg.png<br>
 ├── rbr.png<br>
 ├── research.ipynb<br>
