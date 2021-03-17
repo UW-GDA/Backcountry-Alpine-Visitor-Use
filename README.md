@@ -6,7 +6,7 @@ The population of the Western US has gorwn markedly in the last 10 years, especi
 
 ### Approach
 
-Use 4-band NAIP data because of the 1m resolution. Each band will be investigated for its plausibility in quantifying social trails. If possiblle, annual comparisons will be made to see if the overall area of social trails increases over time.
+Use aerial, 4-band National Agriculture Imagery Program (NAIP) data because of the 1m resolution. Each band will be investigated for its plausibility in quantifying social trails. If possiblle, annual comparisons will be made to see if the overall area of social trails increases over time.
 
 
 ### Team Members
