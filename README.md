@@ -12,7 +12,7 @@ The population of the Western US has gorwn markedly in the last 10 years, especi
 
 Rampart Lakes
 
-<img src="rgb.png" width=25% height=25%>
+<img src="rbg.png" width=25% height=25%>
 
 <br>
 
