@@ -10,13 +10,13 @@ The population of the Western US has gorwn markedly in the last 10 years, especi
 
 ### Examples of Imagery to Be Ivestigated
 
-Rampart Lakes RBG
+### Rampart Lakes RBG
 
 <img src="rbg.png" width=50% height=50%>
 
 <br>
 
-Rampart Lakes Red/Blue
+### Rampart Lakes Red/Blue
 
 <img src="rbr.png" width=50% height=50%>
 
