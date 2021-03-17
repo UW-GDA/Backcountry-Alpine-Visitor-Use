@@ -10,15 +10,15 @@ The population of the Western US has gorwn markedly in the last 10 years, especi
 
 ### Examples of Imagery to Be Ivestigated
 
-Rampart Lakes
+### Rampart Lakes RBG
 
-<img src="rgb.png" width=25% height=25%>
+<img src="rbg.png" width=50% height=50%>
 
 <br>
 
-Satellite image of social trail at Seven Lakes Basin
+### Rampart Lakes Red/Blue
 
-<img src="rbr.png" width=25% height=25%>
+<img src="rbr.png" width=50% height=50%>
 
 
 ### Product
@@ -33,20 +33,7 @@ Satellite image of social trail at Seven Lakes Basin
 * Rasterio
 * urllib
 
-### Current Directory Structure
-
-```
-Backcountry-Alpine-Visitor-Use
-    ├── LICENSE
-    ├── README.md
-    ├── docs/
-    ├── 
-
-```
 
 ### Data Source
 
 *https://earthexplorer.usgs.gov/
-
-* https://www.arcgis.com/home/webmap/viewer.html?featurecollection=https%3A%2F%2Fgis.apfo.usda.gov%2Farcgis%2Frest%2Fservices%3Ff%3Djson%26option%3Dfootprints&supportsProjection=true&supportsJSONP=true
-
