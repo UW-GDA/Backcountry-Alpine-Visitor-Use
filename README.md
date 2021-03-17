@@ -50,8 +50,8 @@ Use 4-band NAIP data because of the 1m resolution. Each band will be investigate
 ├── rbr.png<br>
 ├── research.ipynb<br>
 ├── robin-lakes-social-trail<br>
-│     ├── 01-robin-2013.jpg
-│     ├── 02-robin-2014.jpg
+│     ├── 01-robin-2013.jpg<br>
+│     ├── 02-robin-2014.jpg<br>
 │     ├── 03-robin-2015.jpg<br>
 │     ├── 04-robin-2017.jpg<br>
 │     ├── 05-robin-2018.jpg<br>
