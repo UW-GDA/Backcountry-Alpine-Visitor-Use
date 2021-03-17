@@ -1,8 +1,13 @@
 # Backcountry-Alpine-Visitor-Use
 
-### Introduction
+### Introduction/Problem Statement
 
 The population of the Western US has gorwn markedly in the last 10 years, especially in Western Washington. This growth has translated into increased reacreation within the National Forests and the three National Parks found within Washington's borders. As use increases, documentation of the degredation of these wilderness areas has increased, but the possible contribution of remote sensing using satellinte imagery and LIDAR have yet to be explored. Social trails, common in alpine areas, have long been used by visitors to connect and create campsites as well as navigate topology. It is posited, as visitation rates grow, social trail use will also intensify, compacting alpine soils, killing plants and expanding the breadth of previously established trail networks. This project will evaluate the feasibility of using the National Agriculture Imagery Program (NAIP) and the social trails in alpine wilderness areas in Washington State. If plausible, polygons will be used to capture social trail expanse and track it over time.
+
+### Approach
+
+Use 4-band NAIP data because of the 1m resolution. Each band will be investigated for its plausibility in quantifying social trails. If possiblle, annual comparisons will be made to see if the overall area of social trails increases over time.
+
 
 ### Team Members
 
@@ -32,6 +37,22 @@ The population of the Western US has gorwn markedly in the last 10 years, especi
 * os
 * Rasterio
 * urllib
+
+### Directory Structure
+
+├── LICENSE
+├── README.md
+├── rbg.png
+├── rbr.png
+├── research.ipynb
+├── robin-lakes-social-trail
+│   ├── 01-robin-2013.jpg
+│   ├── 02-robin-2014.jpg
+│   ├── 03-robin-2015.jpg
+│   ├── 04-robin-2017.jpg
+│   ├── 05-robin-2018.jpg
+│   └── robin-lakes.gif
+└── robin-lakes.gif
 
 # Conclusions
 
