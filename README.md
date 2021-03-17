@@ -33,6 +33,24 @@ The population of the Western US has gorwn markedly in the last 10 years, especi
 * Rasterio
 * urllib
 
+# Conclusions
+
+* Red band was the best
+    * normalization added rocks (high sensitivity, low selectivity)
+    * r/b ratio removed rocks, but lost other sections of social trails and added others (mid sensitivity, low selectivity)
+    * 
+* Compare between years
+    * Hard to compare between years
+      * precip differences
+      * photos taken at different times of day
+      * vegetation casts shadows
+
+* Might be useful under different expectations and conditions
+    * True alpine or open space with no tall vegetation
+    * Photos were same day and time of each year
+    * use imagery to determine impervious to semi-impervious surfaces instead of only social trails
+        * This would combine rocks and open soils (compacted from trails included). Possible difference in area between years could be increasing social trails as rocks likely to                                    remain the same
+
 
 ### Data Source
 
